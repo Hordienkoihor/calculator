@@ -1,0 +1,7 @@
+Changes made:
+    * implemented brace counter preventing input with not matching number of braces from going past expression parser
+    * changed package name to assignment11
+    * revised deprecated error handling in variables parsing, was deleted
+    * revised logic of "log2" function
+    * implemented checks for negative and zero values in all "log" functions
+    * implemented check for negative values in "sqrt" function
